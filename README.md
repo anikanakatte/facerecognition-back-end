@@ -2,6 +2,8 @@
 
 Back end API of the face recognition application.
 
+Take a look at the website [here](https://face-detect-ai.herokuapp.com/)!
+
 The front end is [here](https://github.com/anirudhkanakatte/facerecognition-front-end).
 
 ## Built With
